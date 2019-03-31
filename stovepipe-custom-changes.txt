@@ -27,7 +27,7 @@ ffc678dd
 section start
 ----
 tab
-FF007ACC 100/40 240/96
+FF007ACC 100/40 136/240/96
 --ffcc0011
 --ffcc0033
 --ff9900cc
@@ -76,3 +76,6 @@ debugging highlight
 FFCA5100
 FFC11540
 
+border
+FF3399FF 140/240/144
+ff9898be
