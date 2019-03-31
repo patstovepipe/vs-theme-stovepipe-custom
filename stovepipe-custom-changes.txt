@@ -23,22 +23,31 @@ FFB5CEA8
 ffc678dd
 
 tab
-FF007ACC
-FFCE202E
-ffcc0011
+FF007ACC 100/40
+--ffcc0011
+ffcc0033
 
 tab lightest
-FF52B0EF
-ffef505b
+FF52B0EF 83/63 199/151
+--ffef505b
+ef5279
 
 tab ligher
-FF1C97EA
-ffea1c2c
+FF1C97EA 83/51 199/123
+--ffea1c2c
+ea1c50
 
 tab medium
-FF0E6198
-ff980e18
+FF0E6198 83/33 200/78
+--ff980e18
+980e31
 
 tab darker
-FF0E639C
-ff9c0e18
+FF0E639C 84/33 200/80
+--ff9c0e18
+9c0e32
+
+text similar
+FF0097FB 100/49 240/118
+--fffb0013
+fb003f
