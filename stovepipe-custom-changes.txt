@@ -30,41 +30,49 @@ tab
 FF007ACC 100/40 240/96
 --ffcc0011
 --ffcc0033
-ff9900cc
+--ff9900cc
+ff5D6394
 
 tab lightest
-FF52B0EF 83/63 199/151
+FF52B0EF 83/63 199/151 -41/+55
 --ffef505b
 --ffef5279
-ffc852ef
+--ffc852ef
+ffaeafb7
 
 tab ligher
-FF1C97EA 83/51 199/123
+FF1C97EA 83/51 199/123 -41/+27
 --ffea1c2c
 --ffea1c50
-ffb71cea
+--ffb71cea
+ff8e8f9b
 
 tab medium
-FF0E6198 83/33 200/78
+FF0E6198 83/33 200/78 -40/-18
 --ff980e18
 --ff980e31
-ff760e98
+--ff760e98
+ff5f606b
 
 tab darker
-FF0E639C 84/33 200/80
+FF0E639C 84/33 200/80 -40/-16
 --ff9c0e18
 --ff9c0e32
-ff790e9c
+--ff790e9c
+ff61626d
 
 text similar
-FF0097FB 100/49 240/118
+FF0097FB 100/49 240/118 0/+22
 --fffb0013
 --fffb003f
-ffbc00fb
+--ffbc00fb
+ff767ba9
 
 ----
 section end
 ----
 
-command bar toolbar button border
+debugging highlight
+FFCA5100
+FFC11540
 
