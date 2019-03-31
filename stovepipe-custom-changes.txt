@@ -1,3 +1,4 @@
+Text Editor Language Service Items
 
 Document Background
 FF1E1E1E
@@ -30,24 +31,24 @@ ffcc0033
 tab lightest
 FF52B0EF 83/63 199/151
 --ffef505b
-ef5279
+ffef5279
 
 tab ligher
 FF1C97EA 83/51 199/123
 --ffea1c2c
-ea1c50
+ffea1c50
 
 tab medium
 FF0E6198 83/33 200/78
 --ff980e18
-980e31
+ff980e31
 
 tab darker
 FF0E639C 84/33 200/80
 --ff9c0e18
-9c0e32
+ff9c0e32
 
 text similar
 FF0097FB 100/49 240/118
 --fffb0013
-fb003f
+fffb003f
