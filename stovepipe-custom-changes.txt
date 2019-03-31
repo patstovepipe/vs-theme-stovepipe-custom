@@ -1,0 +1,44 @@
+
+Document Background
+FF1E1E1E
+FF2D2F37
+
+Editor Background
+FF2D2D30
+FF3C404B
+
+language variable / keyword
+--FF92CAF4
+--FF5F95FA
+FF569CD6
+ffe06c75
+
+classes
+FF4EC9B0
+ff61afef
+
+Number
+--FFB8D7A3
+FFB5CEA8
+ffc678dd
+
+tab
+FF007ACC
+FFCE202E
+ffcc0011
+
+tab lightest
+FF52B0EF
+ffef505b
+
+tab ligher
+FF1C97EA
+ffea1c2c
+
+tab medium
+FF0E6198
+ff980e18
+
+tab darker
+FF0E639C
+ff9c0e18
