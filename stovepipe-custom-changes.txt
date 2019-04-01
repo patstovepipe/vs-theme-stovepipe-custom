@@ -79,3 +79,7 @@ FFC11540
 border
 FF3399FF 140/240/144
 ff9898be
+
+string
+FFD69D85
+ffe5c07b
