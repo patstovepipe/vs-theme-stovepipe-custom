@@ -6,4 +6,4 @@ Install with the extension [Color Theme Editor for Visual Studio 2017](https://m
 
 Install the extension [SemanticColorizer](https://marketplace.visualstudio.com/items?itemName=AndreasReischuck.SemanticColorizer) to get more colorization options with this theme.
 
-![Example](example.png)
+![Example](/example.png?raw=true)
