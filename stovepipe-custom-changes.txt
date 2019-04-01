@@ -83,3 +83,11 @@ ff9898be
 string
 FFD69D85
 ffe5c07b
+
+comments
+FF57A64A
+ff676f7d
+
+xml comments
+FF608B4E
+ff626e84
