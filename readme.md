@@ -6,4 +6,4 @@ Install with the extension [Color Theme Editor for Visual Studio 2017](https://m
 
 Install the extension [SemanticColorizer](https://marketplace.visualstudio.com/items?itemName=AndreasReischuck.SemanticColorizer) to get more colorization options with this theme.
 
-![Example](/example.png?raw=true)
+![Example](https://raw.githubusercontent.com/patstovepipe/vs-theme-stovepipe-custom/master/example.PNG?raw=true)
