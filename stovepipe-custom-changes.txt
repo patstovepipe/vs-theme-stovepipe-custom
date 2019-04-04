@@ -6,7 +6,8 @@ FF2D2F37
 
 Editor Background
 FF2D2D30
-FF3C404B
+--FF3C404B
+FF27292F
 
 language variable / keyword
 --FF92CAF4
