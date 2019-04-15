@@ -1,9 +1,7 @@
-# Stovepipe Custom `- Visual Studio 2017 Theme`
+# Stovepipe Custom - Visual Studio 2019 Theme
 
-This is a visual studio 2017 theme based off of [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai).
+This is a visual studio 2019 theme based off of [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai).
 
-Install with the extension [Color Theme Editor for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor).
+Install with the extension [Color Theme Editor for Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor).
 
-Install the extension [SemanticColorizer](https://marketplace.visualstudio.com/items?itemName=AndreasReischuck.SemanticColorizer) to get more colorization options with this theme.
-
-![Example](https://raw.githubusercontent.com/patstovepipe/vs-theme-stovepipe-custom/master/example.PNG?raw=true)
+![Example](https://raw.githubusercontent.com/patstovepipe/vs-theme-stovepipe-custom/master/example_vs2019.PNG?raw=true)
